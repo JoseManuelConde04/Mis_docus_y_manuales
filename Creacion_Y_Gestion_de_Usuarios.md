@@ -2,4 +2,4 @@
 1. Crear y darle permisos:
     ```sudo adduser nombre de usuario```
     ``` sudo adduser nombre de usuario nombre del grupo``` 
-    -ejemplo: ``` sudo adduser JMCongz02 sudo``` 
+    ejemplo: ``` sudo adduser JMCongz02 sudo``` 
