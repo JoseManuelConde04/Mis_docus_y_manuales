@@ -1,4 +1,4 @@
-#Comandos de linux que podemos instalar que son útiles para gestionar el sistema y navegar por la cli o consola  
+# Comandos de linux que podemos instalar que son útiles para gestionar el sistema y navegar por la cli o consola  
 1. *fzf*: como find pero más fácil de usar
 2. *tldr*: un man mejor que help
 3. *ack*: un cambio de grep, para búscar lo que realmente haga falta 
