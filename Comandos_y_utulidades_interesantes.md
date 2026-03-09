@@ -7,3 +7,4 @@
 6. batcat: reemplaza el comando cat para hacerlo más intuitivo y sencillo de ejecutar
 7. ripgrep: para búscar entre directorios
 8. gping: ping pero en gráficos
+9. 
